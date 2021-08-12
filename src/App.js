@@ -16,10 +16,11 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
-          Learn React
-          Learn React
-          Learn React
-          Learn React
+          Awesome!
+          Awesome!
+          Awesome!
+          Awesome!
+          Awesome!
         </a>
       </header>
     </div>
